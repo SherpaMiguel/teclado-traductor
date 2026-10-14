@@ -161,12 +161,7 @@ for l in LANGS:
     priv += f'<section class="lang" id="{l}" lang="{l}"><h2>{html.escape(p["name"])} — {html.escape(p["privacy"])}</h2><p class="meta">{p["updated"]}: {UPDATED}</p>{secs}</section>'
 open("privacy.html","w").write(page("Teclado traductor chat IA · Privacy", priv))
 
-sup = ""
-for l in LANGS:
-    lead, steps, help_ = S[l]
-    li = "".join(f"<li>{html.escape(s)}</li>" for s in steps)
-    sup += (f'<section class="lang" id="{l}" lang="{l}"><h2>{html.escape(P[l]["name"])} — {P[l]["support"]}</h2>'
-            f'<p>{html.escape(lead)}</p><ol>{li}</ol><p>{html.escape(help_)} <a href="mailto:{EMAIL}">{EMAIL}</a>.</p>'
-            f'<p><a href="privacy.html#{l}">{html.escape(P[l]["privacy"])}</a></p></section>')
-open("index.html","w").write(page("Teclado traductor chat IA", sup))
+# Landing multilingüe (raíz en inglés y una carpeta por idioma); incluye la ayuda de soporte.
+import landing
+landing.build({code: S["zh-Hans" if code == "zh" else code][1] for code in landing.PATHS}, EMAIL)
 print("ok")

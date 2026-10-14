@@ -1,0 +1,874 @@
+{
+ "es": {
+  "name": "Teclado Traductor Chat IA",
+  "label": "Español",
+  "locale": "es_ES",
+  "store": "es",
+  "title": "Teclado traductor para iPhone: traduce tus chats al escribir",
+  "description": "Teclado traductor para WhatsApp, Telegram e Instagram: lee traducido lo que te escriben y responde en tu idioma. Privado, sin anuncios. 7 días gratis.",
+  "h1": "El teclado traductor para chatear en cualquier idioma",
+  "lead": "Lee traducido lo que te escriben y responde en tu idioma sin salir de WhatsApp, Telegram, Instagram ni de ninguna app. La traducción se hace en tu iPhone.",
+  "trial": "Prueba gratis 7 días · iPhone con iOS 26 o posterior",
+  "badge_alt": "Descargar en el App Store",
+  "nav": [
+   "Cómo funciona",
+   "Funciones",
+   "Precio",
+   "Preguntas"
+  ],
+  "how_title": "Cómo funciona",
+  "how": [
+   [
+    "Copia el mensaje",
+    "Mantén pulsado el mensaje que te llega y toca «Copiar». El teclado lo traduce al momento a tu idioma."
+   ],
+   [
+    "Escribe en tu idioma",
+    "Escribe la respuesta como siempre y pulsa «Traducir»: se sustituye por la traducción, lista para enviar."
+   ],
+   [
+    "Comprueba y envía",
+    "Debajo ves lo que dice tu mensaje en tu idioma, para enviarlo con total tranquilidad."
+   ]
+  ],
+  "shots": [
+   "Traduce al instante los mensajes que recibes",
+   "Escribe en tu idioma y envíalo traducido",
+   "Tus frases favoritas, ya traducidas",
+   "Más de 20 idiomas con traducción privada"
+  ],
+  "features_title": "Todo lo que necesitas para hablar con cualquiera",
+  "features": [
+   [
+    "Traduce en los dos sentidos",
+    "Entiende los mensajes que recibes y responde en el idioma de la otra persona."
+   ],
+   [
+    "En cualquier app",
+    "WhatsApp, Telegram, Instagram, Messenger, correo… Funciona donde puedas escribir."
+   ],
+   [
+    "Traducciones naturales",
+    "Respeta el tono y el trato de cada idioma y tiene en cuenta la conversación."
+   ],
+   [
+    "Privado de verdad",
+    "Traducción de Apple en el propio iPhone: sin conexión, sin anuncios, sin rastreo y sin cuentas."
+   ],
+   [
+    "IA opcional",
+    "Conecta tu propia clave de Claude, Gemini o ChatGPT para traducciones aún más naturales."
+   ],
+   [
+    "Tus frases y tu glosario",
+    "Plantillas que se insertan ya traducidas y un glosario para tus nombres y expresiones, con iCloud."
+   ]
+  ],
+  "langs_title": "Más de 20 idiomas",
+  "langs": "Español, inglés, alemán, francés, italiano, portugués, neerlandés, catalán, euskera, griego, polaco, checo, danés, sueco, noruego, finés, rumano, húngaro, ucraniano, ruso, turco, árabe, chino y japonés.",
+  "pricing_title": "Precio",
+  "pricing": [
+   "7 días gratis",
+   "2,99 € al mes",
+   "19,99 € al año",
+   "39,99 € de por vida (pago único)"
+  ],
+  "pricing_note": "Escribir con el teclado es siempre gratis. Cancela cuando quieras desde los Ajustes de tu iPhone.",
+  "faq_title": "Preguntas frecuentes",
+  "faq": [
+   [
+    "¿Funciona con WhatsApp?",
+    "Sí. Funciona en cualquier app en la que escribas: WhatsApp, Telegram, Instagram, Messenger, Gmail, LinkedIn y más."
+   ],
+   [
+    "¿Es gratis?",
+    "Tienes 7 días gratis. Después, 2,99 € al mes o 19,99 € al año, o 39,99 € una sola vez. Escribir con el teclado es siempre gratis."
+   ],
+   [
+    "¿Por qué pide «Permitir acceso total»?",
+    "iOS lo exige para que el teclado pueda leer el mensaje que copias, usar la IA si la activas y compartir los ajustes con la app. No guarda ni envía lo que escribes."
+   ],
+   [
+    "¿Funciona sin conexión?",
+    "Sí. Con la traducción de Apple, una vez descargados los idiomas, se traduce en el propio iPhone sin conexión."
+   ],
+   [
+    "¿Qué idiomas traduce?",
+    "Más de 20, entre ellos inglés, alemán, francés, italiano, portugués, neerlandés, chino y japonés."
+   ],
+   [
+    "¿Hay versión para Android?",
+    "Por ahora solo está disponible para iPhone con iOS 26 o posterior."
+   ]
+  ],
+  "help_title": "Empieza en un minuto",
+  "help_contact": "¿Necesitas ayuda? Escríbenos a",
+  "cta": "Habla con el mundo en tu idioma",
+  "privacy": "Política de privacidad",
+  "support": "Soporte",
+  "lang_label": "Idioma"
+ },
+ "en": {
+  "name": "AI Chat Translator Keyboard",
+  "label": "English",
+  "locale": "en_US",
+  "store": "us",
+  "title": "Translator Keyboard for iPhone: translate chats as you type",
+  "description": "Translator keyboard for WhatsApp, Telegram and Instagram: read incoming messages translated and reply in your language. Private, no ads. 7 days free.",
+  "h1": "The translator keyboard to chat in any language",
+  "lead": "Read what people write to you in your own language and reply in theirs, right inside WhatsApp, Telegram, Instagram or any app. Translation happens on your iPhone.",
+  "trial": "Free 7-day trial · iPhone with iOS 26 or later",
+  "badge_alt": "Download on the App Store",
+  "nav": [
+   "How it works",
+   "Features",
+   "Pricing",
+   "FAQ"
+  ],
+  "how_title": "How it works",
+  "how": [
+   [
+    "Copy the message",
+    "Touch and hold the message you received and tap “Copy”. The keyboard instantly translates it into your language."
+   ],
+   [
+    "Type in your language",
+    "Write your reply as usual and tap “Translate”: it’s replaced with the translation, ready to send."
+   ],
+   [
+    "Check and send",
+    "Below, you see what your message says in your language, so you can send it with confidence."
+   ]
+  ],
+  "shots": [
+   "Translate incoming messages instantly",
+   "Type in your language, send it translated",
+   "Your favorite phrases, already translated",
+   "20+ languages with private translation"
+  ],
+  "features_title": "Everything you need to talk to anyone",
+  "features": [
+   [
+    "Translates both ways",
+    "Understand the messages you receive and reply in the other person’s language."
+   ],
+   [
+    "Works in any app",
+    "WhatsApp, Telegram, Instagram, Messenger, email… It works wherever you can type."
+   ],
+   [
+    "Natural translations",
+    "Keeps the tone and the right level of formality, and uses the conversation for context."
+   ],
+   [
+    "Truly private",
+    "Apple’s on-device translation: offline, no ads, no tracking and no accounts."
+   ],
+   [
+    "Optional AI",
+    "Connect your own Claude, Gemini or ChatGPT key for even more natural translations."
+   ],
+   [
+    "Your phrases and glossary",
+    "Templates inserted already translated and a glossary for your names and expressions, with iCloud."
+   ]
+  ],
+  "langs_title": "20+ languages",
+  "langs": "English, Spanish, German, French, Italian, Portuguese, Dutch, Catalan, Basque, Greek, Polish, Czech, Danish, Swedish, Norwegian, Finnish, Romanian, Hungarian, Ukrainian, Russian, Turkish, Arabic, Chinese and Japanese.",
+  "pricing_title": "Pricing",
+  "pricing": [
+   "7 days free",
+   "€2.99 per month",
+   "€19.99 per year",
+   "€39.99 lifetime (one-time purchase)"
+  ],
+  "pricing_note": "Typing with the keyboard is always free. Cancel anytime in your iPhone Settings. Prices may vary by country.",
+  "faq_title": "Frequently asked questions",
+  "faq": [
+   [
+    "Does it work with WhatsApp?",
+    "Yes. It works in any app where you type: WhatsApp, Telegram, Instagram, Messenger, Gmail, LinkedIn and more."
+   ],
+   [
+    "Is it free?",
+    "You get 7 days free. Then €2.99 per month or €19.99 per year, or €39.99 once. Typing with the keyboard is always free."
+   ],
+   [
+    "Why does it ask for “Allow Full Access”?",
+    "iOS requires it so the keyboard can read the message you copy, use AI if you turn it on and share settings with the app. It never stores or sends what you type."
+   ],
+   [
+    "Does it work offline?",
+    "Yes. With Apple translation, once the languages are downloaded, text is translated on your iPhone without a connection."
+   ],
+   [
+    "Which languages does it translate?",
+    "More than 20, including Spanish, German, French, Italian, Portuguese, Dutch, Chinese and Japanese."
+   ],
+   [
+    "Is there an Android version?",
+    "For now it’s available for iPhone with iOS 26 or later."
+   ]
+  ],
+  "help_title": "Get started in a minute",
+  "help_contact": "Need help? Email us at",
+  "cta": "Talk to the world in your own language",
+  "privacy": "Privacy Policy",
+  "support": "Support",
+  "lang_label": "Language"
+ },
+ "fr": {
+  "name": "Clavier traducteur de chat IA",
+  "label": "Français",
+  "locale": "fr_FR",
+  "store": "fr",
+  "title": "Clavier traducteur pour iPhone : traduisez vos chats en tapant",
+  "description": "Clavier traducteur pour WhatsApp, Telegram et Instagram : lisez les messages reçus traduits et répondez dans votre langue. Privé, sans pub. 7 jours gratuits.",
+  "h1": "Le clavier traducteur pour discuter dans toutes les langues",
+  "lead": "Lisez ce qu’on vous écrit dans votre langue et répondez dans la sienne, directement dans WhatsApp, Telegram, Instagram ou n’importe quelle app. La traduction se fait sur votre iPhone.",
+  "trial": "Essai gratuit de 7 jours · iPhone avec iOS 26 ou ultérieur",
+  "badge_alt": "Télécharger dans l’App Store",
+  "nav": [
+   "Fonctionnement",
+   "Fonctions",
+   "Prix",
+   "Questions"
+  ],
+  "how_title": "Comment ça marche",
+  "how": [
+   [
+    "Copiez le message",
+    "Maintenez le doigt sur le message reçu et touchez « Copier ». Le clavier le traduit aussitôt dans votre langue."
+   ],
+   [
+    "Écrivez dans votre langue",
+    "Rédigez votre réponse comme d’habitude et touchez « Traduire » : elle est remplacée par la traduction, prête à envoyer."
+   ],
+   [
+    "Vérifiez et envoyez",
+    "En dessous, vous voyez ce que dit votre message dans votre langue, pour l’envoyer en toute confiance."
+   ]
+  ],
+  "shots": [
+   "Traduisez vos messages reçus instantanément",
+   "Écrivez dans votre langue, envoyez traduit",
+   "Vos phrases favorites, déjà traduites",
+   "Plus de 20 langues, traduction privée"
+  ],
+  "features_title": "Tout ce qu’il faut pour parler avec tout le monde",
+  "features": [
+   [
+    "Traduit dans les deux sens",
+    "Comprenez les messages reçus et répondez dans la langue de votre interlocuteur."
+   ],
+   [
+    "Dans toutes les apps",
+    "WhatsApp, Telegram, Instagram, Messenger, e-mail… Il fonctionne partout où vous écrivez."
+   ],
+   [
+    "Traductions naturelles",
+    "Respecte le ton, le tutoiement ou le vouvoiement, et tient compte de la conversation."
+   ],
+   [
+    "Vraiment privé",
+    "Traduction d’Apple sur l’iPhone : hors ligne, sans pub, sans pistage et sans compte."
+   ],
+   [
+    "IA en option",
+    "Ajoutez votre propre clé Claude, Gemini ou ChatGPT pour des traductions encore plus naturelles."
+   ],
+   [
+    "Vos phrases et votre glossaire",
+    "Des modèles insérés déjà traduits et un glossaire pour vos noms et expressions, avec iCloud."
+   ]
+  ],
+  "langs_title": "Plus de 20 langues",
+  "langs": "Français, anglais, espagnol, allemand, italien, portugais, néerlandais, catalan, basque, grec, polonais, tchèque, danois, suédois, norvégien, finnois, roumain, hongrois, ukrainien, russe, turc, arabe, chinois et japonais.",
+  "pricing_title": "Prix",
+  "pricing": [
+   "7 jours gratuits",
+   "2,99 € par mois",
+   "19,99 € par an",
+   "39,99 € à vie (achat unique)"
+  ],
+  "pricing_note": "Écrire avec le clavier est toujours gratuit. Résiliez quand vous voulez dans les Réglages de l’iPhone.",
+  "faq_title": "Questions fréquentes",
+  "faq": [
+   [
+    "Fonctionne-t-il avec WhatsApp ?",
+    "Oui. Il fonctionne dans toutes les apps où vous écrivez : WhatsApp, Telegram, Instagram, Messenger, Gmail, LinkedIn et d’autres."
+   ],
+   [
+    "Est-ce gratuit ?",
+    "Vous avez 7 jours gratuits. Ensuite 2,99 € par mois ou 19,99 € par an, ou 39,99 € une seule fois. Écrire avec le clavier est toujours gratuit."
+   ],
+   [
+    "Pourquoi demande-t-il « Autoriser l’accès complet » ?",
+    "iOS l’exige pour que le clavier puisse lire le message copié, utiliser l’IA si vous l’activez et partager les réglages avec l’app. Il n’enregistre ni n’envoie ce que vous tapez."
+   ],
+   [
+    "Fonctionne-t-il hors ligne ?",
+    "Oui. Avec la traduction d’Apple, une fois les langues téléchargées, la traduction se fait sur l’iPhone sans connexion."
+   ],
+   [
+    "Quelles langues traduit-il ?",
+    "Plus de 20, dont l’anglais, l’espagnol, l’allemand, l’italien, le portugais, le néerlandais, le chinois et le japonais."
+   ],
+   [
+    "Existe-t-il une version Android ?",
+    "Pour l’instant, il est disponible sur iPhone avec iOS 26 ou ultérieur."
+   ]
+  ],
+  "help_title": "Commencez en une minute",
+  "help_contact": "Besoin d’aide ? Écrivez-nous à",
+  "cta": "Parlez au monde entier dans votre langue",
+  "privacy": "Politique de confidentialité",
+  "support": "Assistance",
+  "lang_label": "Langue"
+ },
+ "de": {
+  "name": "KI-Chat-Übersetzer-Tastatur",
+  "label": "Deutsch",
+  "locale": "de_DE",
+  "store": "de",
+  "title": "Übersetzer-Tastatur fürs iPhone: Chats beim Tippen übersetzen",
+  "description": "Übersetzer-Tastatur für WhatsApp, Telegram und Instagram: Nachrichten übersetzt lesen und in deiner Sprache antworten. Privat, ohne Werbung. 7 Tage gratis.",
+  "h1": "Die Übersetzer-Tastatur für Chats in jeder Sprache",
+  "lead": "Lies, was man dir schreibt, in deiner Sprache und antworte in ihrer – direkt in WhatsApp, Telegram, Instagram oder jeder anderen App. Die Übersetzung passiert auf deinem iPhone.",
+  "trial": "7 Tage kostenlos testen · iPhone mit iOS 26 oder neuer",
+  "badge_alt": "Laden im App Store",
+  "nav": [
+   "So geht’s",
+   "Funktionen",
+   "Preise",
+   "Fragen"
+  ],
+  "how_title": "So funktioniert es",
+  "how": [
+   [
+    "Nachricht kopieren",
+    "Halte die empfangene Nachricht gedrückt und tippe auf „Kopieren“. Die Tastatur übersetzt sie sofort in deine Sprache."
+   ],
+   [
+    "In deiner Sprache schreiben",
+    "Schreib deine Antwort wie gewohnt und tippe auf „Übersetzen“: Sie wird durch die Übersetzung ersetzt, bereit zum Senden."
+   ],
+   [
+    "Prüfen und senden",
+    "Darunter siehst du, was deine Nachricht in deiner Sprache sagt – so sendest du sie mit gutem Gefühl."
+   ]
+  ],
+  "shots": [
+   "Übersetze eingehende Nachrichten sofort",
+   "Schreib in deiner Sprache, sende übersetzt",
+   "Deine Lieblingssätze, schon übersetzt",
+   "Über 20 Sprachen, privat übersetzt"
+  ],
+  "features_title": "Alles, um mit allen zu sprechen",
+  "features": [
+   [
+    "Übersetzt in beide Richtungen",
+    "Verstehe empfangene Nachrichten und antworte in der Sprache deines Gegenübers."
+   ],
+   [
+    "In jeder App",
+    "WhatsApp, Telegram, Instagram, Messenger, E-Mail … Sie funktioniert überall, wo du tippst."
+   ],
+   [
+    "Natürliche Übersetzungen",
+    "Behält den Ton und die passende Anrede (du oder Sie) bei und nutzt den Chatverlauf."
+   ],
+   [
+    "Wirklich privat",
+    "Apples Übersetzung direkt auf dem iPhone: offline, ohne Werbung, ohne Tracking, ohne Konto."
+   ],
+   [
+    "Optionale KI",
+    "Verbinde deinen eigenen Claude-, Gemini- oder ChatGPT-Schlüssel für noch natürlichere Übersetzungen."
+   ],
+   [
+    "Deine Sätze und dein Glossar",
+    "Vorlagen, die schon übersetzt eingefügt werden, und ein Glossar für Namen und Ausdrücke, mit iCloud."
+   ]
+  ],
+  "langs_title": "Über 20 Sprachen",
+  "langs": "Deutsch, Englisch, Spanisch, Französisch, Italienisch, Portugiesisch, Niederländisch, Katalanisch, Baskisch, Griechisch, Polnisch, Tschechisch, Dänisch, Schwedisch, Norwegisch, Finnisch, Rumänisch, Ungarisch, Ukrainisch, Russisch, Türkisch, Arabisch, Chinesisch und Japanisch.",
+  "pricing_title": "Preise",
+  "pricing": [
+   "7 Tage kostenlos",
+   "2,99 € pro Monat",
+   "19,99 € pro Jahr",
+   "39,99 € dauerhaft (Einmalkauf)"
+  ],
+  "pricing_note": "Mit der Tastatur zu tippen ist immer kostenlos. Jederzeit in den iPhone-Einstellungen kündbar.",
+  "faq_title": "Häufige Fragen",
+  "faq": [
+   [
+    "Funktioniert sie mit WhatsApp?",
+    "Ja. Sie funktioniert in jeder App, in der du tippst: WhatsApp, Telegram, Instagram, Messenger, Gmail, LinkedIn und mehr."
+   ],
+   [
+    "Ist sie kostenlos?",
+    "Du bekommst 7 Tage gratis. Danach 2,99 € pro Monat oder 19,99 € pro Jahr oder einmalig 39,99 €. Tippen ist immer kostenlos."
+   ],
+   [
+    "Warum braucht sie „Vollen Zugriff“?",
+    "iOS verlangt das, damit die Tastatur die kopierte Nachricht lesen, die KI nutzen und Einstellungen mit der App teilen kann. Sie speichert oder sendet nicht, was du tippst."
+   ],
+   [
+    "Funktioniert sie offline?",
+    "Ja. Mit Apples Übersetzung wird nach dem Laden der Sprachen direkt auf dem iPhone ohne Verbindung übersetzt."
+   ],
+   [
+    "Welche Sprachen übersetzt sie?",
+    "Über 20, darunter Englisch, Spanisch, Französisch, Italienisch, Portugiesisch, Niederländisch, Chinesisch und Japanisch."
+   ],
+   [
+    "Gibt es eine Android-Version?",
+    "Derzeit gibt es sie nur fürs iPhone mit iOS 26 oder neuer."
+   ]
+  ],
+  "help_title": "In einer Minute startklar",
+  "help_contact": "Brauchst du Hilfe? Schreib uns an",
+  "cta": "Sprich mit der ganzen Welt in deiner Sprache",
+  "privacy": "Datenschutzerklärung",
+  "support": "Support",
+  "lang_label": "Sprache"
+ },
+ "it": {
+  "name": "Tastiera traduttore chat IA",
+  "label": "Italiano",
+  "locale": "it_IT",
+  "store": "it",
+  "title": "Tastiera traduttore per iPhone: traduci le chat mentre scrivi",
+  "description": "Tastiera traduttore per WhatsApp, Telegram e Instagram: leggi tradotto ciò che ricevi e rispondi nella tua lingua. Privata, senza pubblicità. 7 giorni gratis.",
+  "h1": "La tastiera traduttore per chattare in qualsiasi lingua",
+  "lead": "Leggi nella tua lingua ciò che ti scrivono e rispondi nella loro, direttamente in WhatsApp, Telegram, Instagram o in qualsiasi app. La traduzione avviene sul tuo iPhone.",
+  "trial": "Prova gratis per 7 giorni · iPhone con iOS 26 o successivo",
+  "badge_alt": "Scarica su App Store",
+  "nav": [
+   "Come funziona",
+   "Funzioni",
+   "Prezzi",
+   "Domande"
+  ],
+  "how_title": "Come funziona",
+  "how": [
+   [
+    "Copia il messaggio",
+    "Tieni premuto il messaggio ricevuto e tocca «Copia». La tastiera lo traduce subito nella tua lingua."
+   ],
+   [
+    "Scrivi nella tua lingua",
+    "Scrivi la risposta come sempre e tocca «Traduci»: viene sostituita dalla traduzione, pronta da inviare."
+   ],
+   [
+    "Controlla e invia",
+    "Sotto vedi cosa dice il tuo messaggio nella tua lingua, per inviarlo in tutta tranquillità."
+   ]
+  ],
+  "shots": [
+   "Traduci subito i messaggi che ricevi",
+   "Scrivi nella tua lingua, invia tradotto",
+   "Le tue frasi preferite, già tradotte",
+   "Oltre 20 lingue, traduzione privata"
+  ],
+  "features_title": "Tutto ciò che serve per parlare con chiunque",
+  "features": [
+   [
+    "Traduce nei due sensi",
+    "Capisci i messaggi che ricevi e rispondi nella lingua dell’altra persona."
+   ],
+   [
+    "In qualsiasi app",
+    "WhatsApp, Telegram, Instagram, Messenger, email… Funziona ovunque tu possa scrivere."
+   ],
+   [
+    "Traduzioni naturali",
+    "Rispetta il tono e il registro di ogni lingua e tiene conto della conversazione."
+   ],
+   [
+    "Davvero privata",
+    "Traduzione di Apple sull’iPhone: offline, senza pubblicità, senza tracciamento e senza account."
+   ],
+   [
+    "IA opzionale",
+    "Collega la tua chiave Claude, Gemini o ChatGPT per traduzioni ancora più naturali."
+   ],
+   [
+    "Le tue frasi e il tuo glossario",
+    "Modelli inseriti già tradotti e un glossario per nomi ed espressioni, con iCloud."
+   ]
+  ],
+  "langs_title": "Oltre 20 lingue",
+  "langs": "Italiano, inglese, spagnolo, tedesco, francese, portoghese, olandese, catalano, basco, greco, polacco, ceco, danese, svedese, norvegese, finlandese, rumeno, ungherese, ucraino, russo, turco, arabo, cinese e giapponese.",
+  "pricing_title": "Prezzi",
+  "pricing": [
+   "7 giorni gratis",
+   "2,99 € al mese",
+   "19,99 € all’anno",
+   "39,99 € per sempre (acquisto unico)"
+  ],
+  "pricing_note": "Scrivere con la tastiera è sempre gratis. Annulla quando vuoi dalle Impostazioni dell’iPhone.",
+  "faq_title": "Domande frequenti",
+  "faq": [
+   [
+    "Funziona con WhatsApp?",
+    "Sì. Funziona in qualsiasi app in cui scrivi: WhatsApp, Telegram, Instagram, Messenger, Gmail, LinkedIn e altre."
+   ],
+   [
+    "È gratis?",
+    "Hai 7 giorni gratis. Poi 2,99 € al mese o 19,99 € all’anno, oppure 39,99 € una sola volta. Scrivere con la tastiera è sempre gratis."
+   ],
+   [
+    "Perché chiede «Consenti accesso completo»?",
+    "iOS lo richiede perché la tastiera possa leggere il messaggio copiato, usare l’IA se la attivi e condividere le impostazioni con l’app. Non salva né invia ciò che scrivi."
+   ],
+   [
+    "Funziona offline?",
+    "Sì. Con la traduzione di Apple, scaricate le lingue, si traduce sull’iPhone senza connessione."
+   ],
+   [
+    "Quali lingue traduce?",
+    "Oltre 20, tra cui inglese, spagnolo, tedesco, francese, portoghese, olandese, cinese e giapponese."
+   ],
+   [
+    "Esiste una versione Android?",
+    "Per ora è disponibile solo per iPhone con iOS 26 o successivo."
+   ]
+  ],
+  "help_title": "Inizia in un minuto",
+  "help_contact": "Serve aiuto? Scrivici a",
+  "cta": "Parla con il mondo nella tua lingua",
+  "privacy": "Informativa sulla privacy",
+  "support": "Assistenza",
+  "lang_label": "Lingua"
+ },
+ "pt": {
+  "name": "Teclado tradutor de chat IA",
+  "label": "Português",
+  "locale": "pt_PT",
+  "store": "pt",
+  "title": "Teclado tradutor para iPhone: traduza conversas enquanto escreve",
+  "description": "Teclado tradutor para WhatsApp, Telegram e Instagram: leia traduzidas as mensagens que recebe e responda no seu idioma. Privado, sem anúncios. 7 dias grátis.",
+  "h1": "O teclado tradutor para conversar em qualquer idioma",
+  "lead": "Leia no seu idioma o que lhe escrevem e responda no idioma deles, dentro do WhatsApp, Telegram, Instagram ou de qualquer app. A tradução é feita no seu iPhone.",
+  "trial": "Experimente grátis durante 7 dias · iPhone com iOS 26 ou posterior",
+  "badge_alt": "Descarregar na App Store",
+  "nav": [
+   "Como funciona",
+   "Funções",
+   "Preço",
+   "Perguntas"
+  ],
+  "how_title": "Como funciona",
+  "how": [
+   [
+    "Copie a mensagem",
+    "Mantenha premida a mensagem recebida e toque em «Copiar». O teclado traduz no momento para o seu idioma."
+   ],
+   [
+    "Escreva no seu idioma",
+    "Escreva a resposta como sempre e toque em «Traduzir»: é substituída pela tradução, pronta a enviar."
+   ],
+   [
+    "Confirme e envie",
+    "Por baixo vê o que diz a sua mensagem no seu idioma, para a enviar com toda a tranquilidade."
+   ]
+  ],
+  "shots": [
+   "Traduza na hora as mensagens que recebe",
+   "Escreva no seu idioma e envie traduzido",
+   "Frases favoritas, já traduzidas",
+   "Mais de 20 idiomas com tradução privada"
+  ],
+  "features_title": "Tudo o que precisa para falar com qualquer pessoa",
+  "features": [
+   [
+    "Traduz nos dois sentidos",
+    "Perceba as mensagens que recebe e responda no idioma da outra pessoa."
+   ],
+   [
+    "Em qualquer app",
+    "WhatsApp, Telegram, Instagram, Messenger, email… Funciona onde puder escrever."
+   ],
+   [
+    "Traduções naturais",
+    "Respeita o tom e o tratamento de cada idioma e tem em conta a conversa."
+   ],
+   [
+    "Privacidade a sério",
+    "Tradução da Apple no próprio iPhone: sem ligação, sem anúncios, sem rastreio e sem contas."
+   ],
+   [
+    "IA opcional",
+    "Ligue a sua própria chave Claude, Gemini ou ChatGPT para traduções ainda mais naturais."
+   ],
+   [
+    "As suas frases e o seu glossário",
+    "Modelos inseridos já traduzidos e um glossário para nomes e expressões, com iCloud."
+   ]
+  ],
+  "langs_title": "Mais de 20 idiomas",
+  "langs": "Português, inglês, espanhol, alemão, francês, italiano, neerlandês, catalão, basco, grego, polaco, checo, dinamarquês, sueco, norueguês, finlandês, romeno, húngaro, ucraniano, russo, turco, árabe, chinês e japonês.",
+  "pricing_title": "Preço",
+  "pricing": [
+   "7 dias grátis",
+   "2,99 € por mês",
+   "19,99 € por ano",
+   "39,99 € vitalício (pagamento único)"
+  ],
+  "pricing_note": "Escrever com o teclado é sempre grátis. Cancele quando quiser nas Definições do iPhone.",
+  "faq_title": "Perguntas frequentes",
+  "faq": [
+   [
+    "Funciona com o WhatsApp?",
+    "Sim. Funciona em qualquer app onde escreva: WhatsApp, Telegram, Instagram, Messenger, Gmail, LinkedIn e outras."
+   ],
+   [
+    "É grátis?",
+    "Tem 7 dias grátis. Depois, 2,99 € por mês ou 19,99 € por ano, ou 39,99 € uma única vez. Escrever com o teclado é sempre grátis."
+   ],
+   [
+    "Porque pede «Permitir acesso total»?",
+    "O iOS exige-o para que o teclado possa ler a mensagem copiada, usar a IA se a ativar e partilhar as definições com a app. Não guarda nem envia o que escreve."
+   ],
+   [
+    "Funciona sem ligação?",
+    "Sim. Com a tradução da Apple, depois de descarregar os idiomas, traduz-se no próprio iPhone sem ligação."
+   ],
+   [
+    "Que idiomas traduz?",
+    "Mais de 20, entre eles inglês, espanhol, alemão, francês, italiano, neerlandês, chinês e japonês."
+   ],
+   [
+    "Há versão para Android?",
+    "Por agora só está disponível para iPhone com iOS 26 ou posterior."
+   ]
+  ],
+  "help_title": "Comece num minuto",
+  "help_contact": "Precisa de ajuda? Escreva-nos para",
+  "cta": "Fale com o mundo no seu idioma",
+  "privacy": "Política de privacidade",
+  "support": "Suporte",
+  "lang_label": "Idioma"
+ },
+ "nl": {
+  "name": "AI Chat Vertaler Toetsenbord",
+  "label": "Nederlands",
+  "locale": "nl_NL",
+  "store": "nl",
+  "title": "Vertaaltoetsenbord voor iPhone: vertaal chats terwijl je typt",
+  "description": "Vertaaltoetsenbord voor WhatsApp, Telegram en Instagram: lees ontvangen berichten vertaald en antwoord in je eigen taal. Privé, zonder reclame. 7 dagen gratis.",
+  "h1": "Het vertaaltoetsenbord om in elke taal te chatten",
+  "lead": "Lees wat er naar je geschreven wordt in je eigen taal en antwoord in de hunne, gewoon in WhatsApp, Telegram, Instagram of elke andere app. De vertaling gebeurt op je iPhone.",
+  "trial": "7 dagen gratis proberen · iPhone met iOS 26 of nieuwer",
+  "badge_alt": "Download in de App Store",
+  "nav": [
+   "Zo werkt het",
+   "Functies",
+   "Prijs",
+   "Vragen"
+  ],
+  "how_title": "Zo werkt het",
+  "how": [
+   [
+    "Kopieer het bericht",
+    "Houd het ontvangen bericht ingedrukt en tik op ‘Kopieer’. Het toetsenbord vertaalt het meteen naar jouw taal."
+   ],
+   [
+    "Schrijf in je eigen taal",
+    "Typ je antwoord zoals altijd en tik op ‘Vertaal’: het wordt vervangen door de vertaling, klaar om te versturen."
+   ],
+   [
+    "Controleer en verstuur",
+    "Eronder zie je wat je bericht in jouw taal zegt, zodat je het met een gerust hart verstuurt."
+   ]
+  ],
+  "shots": [
+   "Vertaal ontvangen berichten meteen",
+   "Schrijf in je eigen taal, verstuur vertaald",
+   "Je favoriete zinnen, al vertaald",
+   "20+ talen, privé vertaald"
+  ],
+  "features_title": "Alles om met iedereen te praten",
+  "features": [
+   [
+    "Vertaalt in beide richtingen",
+    "Begrijp de berichten die je ontvangt en antwoord in de taal van de ander."
+   ],
+   [
+    "In elke app",
+    "WhatsApp, Telegram, Instagram, Messenger, e-mail… Het werkt overal waar je typt."
+   ],
+   [
+    "Natuurlijke vertalingen",
+    "Behoudt de toon en de juiste aanspreekvorm (je of u) en gebruikt het gesprek als context."
+   ],
+   [
+    "Echt privé",
+    "Vertaling van Apple op je iPhone: offline, geen advertenties, geen tracking en geen account."
+   ],
+   [
+    "Optionele AI",
+    "Koppel je eigen sleutel van Claude, Gemini of ChatGPT voor nog natuurlijkere vertalingen."
+   ],
+   [
+    "Je zinnen en woordenlijst",
+    "Sjablonen die al vertaald worden ingevoegd en een woordenlijst voor namen en uitdrukkingen, met iCloud."
+   ]
+  ],
+  "langs_title": "Meer dan 20 talen",
+  "langs": "Nederlands, Engels, Spaans, Duits, Frans, Italiaans, Portugees, Catalaans, Baskisch, Grieks, Pools, Tsjechisch, Deens, Zweeds, Noors, Fins, Roemeens, Hongaars, Oekraïens, Russisch, Turks, Arabisch, Chinees en Japans.",
+  "pricing_title": "Prijs",
+  "pricing": [
+   "7 dagen gratis",
+   "€ 2,99 per maand",
+   "€ 19,99 per jaar",
+   "€ 39,99 levenslang (eenmalige aankoop)"
+  ],
+  "pricing_note": "Typen met het toetsenbord is altijd gratis. Op elk moment op te zeggen in de iPhone-instellingen.",
+  "faq_title": "Veelgestelde vragen",
+  "faq": [
+   [
+    "Werkt het met WhatsApp?",
+    "Ja. Het werkt in elke app waarin je typt: WhatsApp, Telegram, Instagram, Messenger, Gmail, LinkedIn en meer."
+   ],
+   [
+    "Is het gratis?",
+    "Je krijgt 7 dagen gratis. Daarna € 2,99 per maand of € 19,99 per jaar, of eenmalig € 39,99. Typen is altijd gratis."
+   ],
+   [
+    "Waarom vraagt het om ‘Volledige toegang’?",
+    "iOS vereist dit zodat het toetsenbord het gekopieerde bericht kan lezen, AI kan gebruiken als je die aanzet en instellingen met de app kan delen. Het bewaart of verstuurt niet wat je typt."
+   ],
+   [
+    "Werkt het offline?",
+    "Ja. Met de vertaling van Apple wordt na het downloaden van de talen op je iPhone vertaald, zonder verbinding."
+   ],
+   [
+    "Welke talen vertaalt het?",
+    "Meer dan 20, waaronder Engels, Spaans, Duits, Frans, Italiaans, Portugees, Chinees en Japans."
+   ],
+   [
+    "Is er een Android-versie?",
+    "Voorlopig is het alleen beschikbaar voor iPhone met iOS 26 of nieuwer."
+   ]
+  ],
+  "help_title": "In een minuut aan de slag",
+  "help_contact": "Hulp nodig? Mail ons op",
+  "cta": "Praat met de wereld in je eigen taal",
+  "privacy": "Privacybeleid",
+  "support": "Ondersteuning",
+  "lang_label": "Taal"
+ },
+ "zh": {
+  "name": "AI 聊天翻译键盘",
+  "label": "简体中文",
+  "locale": "zh_CN",
+  "store": "cn",
+  "title": "iPhone 翻译键盘：打字时即时翻译聊天内容",
+  "description": "适用于 WhatsApp、Telegram 和 Instagram 的翻译键盘：阅读收到消息的译文，用你的语言回复。注重隐私，无广告。免费试用 7 天。",
+  "h1": "用任何语言聊天的翻译键盘",
+  "lead": "在 WhatsApp、Telegram、Instagram 或任何 App 中，直接用你的语言阅读对方的消息，并用对方的语言回复。翻译在你的 iPhone 上完成。",
+  "trial": "免费试用 7 天 · 需要 iOS 26 或更高版本的 iPhone",
+  "badge_alt": "在 App Store 下载",
+  "nav": [
+   "使用方法",
+   "功能",
+   "价格",
+   "常见问题"
+  ],
+  "how_title": "使用方法",
+  "how": [
+   [
+    "拷贝消息",
+    "按住收到的消息并点按“拷贝”，键盘会立即把它翻译成你的语言。"
+   ],
+   [
+    "用你的语言输入",
+    "像平常一样写回复，然后点按“翻译”：文字会被替换为译文，可直接发送。"
+   ],
+   [
+    "确认后发送",
+    "下方会显示你的消息在你的语言中的意思，让你放心发送。"
+   ]
+  ],
+  "shots": [
+   "即时翻译收到的消息",
+   "用你的语言写，发送译文",
+   "常用短语，已翻译好",
+   "支持 20 多种语言的私密翻译"
+  ],
+  "features_title": "与任何人交流所需的一切",
+  "features": [
+   [
+    "双向翻译",
+    "看懂收到的消息，并用对方的语言回复。"
+   ],
+   [
+    "适用于任何 App",
+    "WhatsApp、Telegram、Instagram、Messenger、邮件……凡是能打字的地方都能用。"
+   ],
+   [
+    "自然的翻译",
+    "保留语气和各语言的称呼习惯，并结合对话上下文。"
+   ],
+   [
+    "真正私密",
+    "使用 Apple 在 iPhone 本机的翻译：可离线、无广告、无追踪、无需账户。"
+   ],
+   [
+    "可选 AI",
+    "接入你自己的 Claude、Gemini 或 ChatGPT 密钥，翻译更加自然。"
+   ],
+   [
+    "你的短语和术语表",
+    "插入时已翻译好的模板，以及用于名称和表达的术语表，并通过 iCloud 同步。"
+   ]
+  ],
+  "langs_title": "支持 20 多种语言",
+  "langs": "中文、英语、西班牙语、德语、法语、意大利语、葡萄牙语、荷兰语、加泰罗尼亚语、巴斯克语、希腊语、波兰语、捷克语、丹麦语、瑞典语、挪威语、芬兰语、罗马尼亚语、匈牙利语、乌克兰语、俄语、土耳其语、阿拉伯语和日语。",
+  "pricing_title": "价格",
+  "pricing": [
+   "免费试用 7 天",
+   "每月 2.99 欧元",
+   "每年 19.99 欧元",
+   "终身版 39.99 欧元（一次性购买）"
+  ],
+  "pricing_note": "使用键盘打字始终免费。可随时在 iPhone 设置中取消订阅。各地区价格可能不同。",
+  "faq_title": "常见问题",
+  "faq": [
+   [
+    "可以在 WhatsApp 中使用吗？",
+    "可以。凡是能打字的 App 都能使用：WhatsApp、Telegram、Instagram、Messenger、Gmail、LinkedIn 等。"
+   ],
+   [
+    "免费吗？",
+    "可免费试用 7 天。之后每月 2.99 欧元或每年 19.99 欧元，或一次性支付 39.99 欧元。使用键盘打字始终免费。"
+   ],
+   [
+    "为什么需要“允许完全访问”？",
+    "iOS 要求开启此项，键盘才能读取你拷贝的消息、在你开启 AI 时使用 AI，并与 App 共享设置。它不会保存或发送你输入的内容。"
+   ],
+   [
+    "可以离线使用吗？",
+    "可以。使用 Apple 翻译时，下载语言后即可在 iPhone 上离线翻译。"
+   ],
+   [
+    "支持哪些语言？",
+    "20 多种，包括英语、西班牙语、德语、法语、意大利语、葡萄牙语、荷兰语和日语。"
+   ],
+   [
+    "有安卓版吗？",
+    "目前仅支持 iOS 26 或更高版本的 iPhone。"
+   ]
+  ],
+  "help_title": "一分钟即可上手",
+  "help_contact": "需要帮助？请写信至",
+  "cta": "用你的语言与世界交流",
+  "privacy": "隐私政策",
+  "support": "支持",
+  "lang_label": "语言"
+ }
+}
