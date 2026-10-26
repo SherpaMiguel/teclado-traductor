@@ -16,10 +16,12 @@ SHOTS = ["incoming", "outgoing", "templates", "languages"]
 APP_FONTS = os.path.expanduser("~/Documents/GitHub/teclado-traductor-chat-ia/App/Fonts")
 
 CSS = """
-:root{--bg:#f5f5f5;--card:#ffffff;--ink:#252525;--soft:rgba(96,95,95,1);--line:#d3d3d3;
---primary:#58b179;--primary-strong:#59a279;--accent:#d0d947;--chip:rgba(211,211,211,.39)}
-@media (prefers-color-scheme:dark){:root{--bg:#000000;--card:#252525;--ink:#f5f5f5;
---soft:#d3d3d3;--line:#3d3d3b;--chip:#3d3d3b}}
+/* Paleta de la app (Shared/Palette.swift): laguna, menta, tinta y niebla. */
+:root{--bg:#F4F8F7;--card:#ffffff;--ink:#13253A;--soft:#5F6F82;--line:#DDE7E5;
+--primary:#0E8F80;--primary-strong:#0B7468;--on-primary:#ffffff;--chip:#DDF4EF}
+@media (prefers-color-scheme:dark){:root{--bg:#0C1620;--card:#13212E;--ink:#EAF1F7;
+--soft:#9AA9BA;--line:#22323F;--primary:#2BC4AE;--primary-strong:#2BC4AE;
+--on-primary:#0C1620;--chip:#133D37}}
 *{box-sizing:border-box}html{scroll-behavior:smooth}
 body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.6 Manrope,system-ui,sans-serif}
 a{color:var(--primary-strong)}img{max-width:100%;height:auto}
@@ -51,10 +53,10 @@ section{padding:48px 0}h2{font-size:clamp(26px,4vw,36px);line-height:1.15;margin
 .step,.card,.plan{background:var(--card);border:1px solid var(--line);border-radius:20px;
 padding:22px}.step b,.card b{display:block;font-size:19px;margin-bottom:6px}
 .num{display:inline-grid;place-items:center;width:34px;height:34px;border-radius:50%;
-background:var(--primary);color:#fff;font-weight:800;margin-bottom:12px}
+background:var(--primary);color:var(--on-primary);font-weight:800;margin-bottom:12px}
 .card p,.step p{margin:0;color:var(--soft)}
 .plan{font-size:20px;font-weight:800;text-align:center}
-.plan:first-child{background:var(--primary);color:#fff;border-color:var(--primary)}
+.plan:first-child{background:var(--primary);color:var(--on-primary);border-color:var(--primary)}
 .note{color:var(--soft);margin-top:16px}
 .langs{background:var(--card);border:1px solid var(--line);border-radius:20px;padding:22px;
 margin:0;color:var(--soft)}
@@ -87,9 +89,9 @@ def store_url(c):
 
 def og_image(lang, c):
     """Tarjeta de 1200 × 630 para compartir: titular a la izquierda y captura a la derecha."""
-    card = Image.new("RGB", (1200, 630), "#f5f5f5")
+    card = Image.new("RGB", (1200, 630), "#F4F8F7")
     draw = ImageDraw.Draw(card)
-    draw.rectangle((0, 600, 1200, 630), fill="#58b179")
+    draw.rectangle((0, 600, 1200, 630), fill="#0E8F80")
     shot = Image.open(f"img/{lang}/incoming.webp").convert("RGB")
     shot = shot.resize((int(shot.width * 560 / shot.height), 560), Image.LANCZOS)
     card.paste(shot, (1200 - shot.width - 70, 20))
@@ -113,7 +115,7 @@ def og_image(lang, c):
     lines.append(line)
     y = 200
     for text in lines[:5]:
-        draw.text((70, y), text, font=font, fill="#252525")
+        draw.text((70, y), text, font=font, fill="#13253A")
         y += 68
     card.save(f"img/og-{lang}.jpg", quality=86)
 
@@ -185,7 +187,7 @@ def page(lang, content, help_steps, email):
 <title>{esc(c["title"])}</title><meta name="description" content="{esc(c["description"])}">
 <link rel="canonical" href="{url(lang)}">{alternates}
 <meta name="apple-itunes-app" content="app-id={APP_ID}">
-<meta name="theme-color" content="#58b179"><link rel="icon" href="{root}icon.png">
+<meta name="theme-color" content="#0E8F80"><link rel="icon" href="{root}icon.png">
 <link rel="apple-touch-icon" href="{root}icon.png">
 <meta property="og:type" content="website"><meta property="og:url" content="{url(lang)}">
 <meta property="og:title" content="{esc(c["title"])}">
