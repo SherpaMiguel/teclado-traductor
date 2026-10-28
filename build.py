@@ -1,6 +1,6 @@
 # Genera index.html (soporte) y privacy.html en 8 idiomas. Ejecutar: python3 build.py
 import html
-UPDATED = "2026-10-13"
+UPDATED = "2026-10-28"
 LANGS = ["es","en","fr","de","it","pt","nl","zh-Hans"]
 LABEL = {"es":"Español","en":"English","fr":"Français","de":"Deutsch","it":"Italiano","pt":"Português","nl":"Nederlands","zh-Hans":"简体中文"}
 COMPANY = "Sherpas Time Consulting S.L. · B56190440 · Gijón, España"
@@ -13,7 +13,7 @@ P = {
  ("Responsable",f"{COMPANY}. Contacto: {EMAIL}."),
  ("Lo que escribes","El teclado no guarda ni envía lo que escribes. Solo lee el texto de la caja cuando pulsas Traducir, y el mensaje copiado cuando pulsas Pegar."),
  ("Traducción de iOS","Por defecto se usa la traducción integrada de Apple en el propio iPhone: el texto no sale del dispositivo."),
- ("IA opcional","Si activas Claude (Anthropic), Gemini (Google) o ChatGPT (OpenAI) con tu clave, el texto a traducir y los últimos mensajes de la conversación se envían directamente desde tu iPhone a ese proveedor, que los trata según su propia política de privacidad. Nosotros no recibimos nada. La clave se guarda solo en el llavero de tu iPhone."),
+ ("IA opcional","Si activas Claude (Anthropic) o Gemini (Google) con tu clave, el texto a traducir y los últimos mensajes de la conversación se envían directamente desde tu iPhone a ese proveedor, que los trata según su propia política de privacidad. Nosotros no recibimos nada. La clave se guarda solo en el llavero de tu iPhone."),
  ("Datos en tu iPhone","Para traducir con contexto, el teclado recuerda los últimos mensajes durante 3 horas, solo en tu iPhone. Puedes borrarlos en Ajustes → Olvidar conversación e idioma."),
  ("Plantillas, glosario e iCloud","Tus plantillas y tu glosario se guardan en tu iPhone. Si dejas activado «Sincronizar con iCloud», Apple los copia en tu cuenta de iCloud para llevarlos a tus otros dispositivos. Nosotros no tenemos acceso. Puedes desactivarlo en Ajustes."),
  ("«Permitir acceso total»","iOS lo exige para que el teclado pueda leer el mensaje que copias, conectarse a la IA si la activas y compartir los ajustes con la app. No lo usamos para nada más."),
@@ -27,7 +27,7 @@ P = {
  ("Controller",f"{COMPANY}. Contact: {EMAIL}."),
  ("What you type","The keyboard doesn’t store or send what you type. It only reads the text box when you tap Translate, and the copied message when you tap Paste."),
  ("iOS translation","By default, Apple’s built-in on-device translation is used: the text never leaves your iPhone."),
- ("Optional AI","If you turn on Claude (Anthropic), Gemini (Google) or ChatGPT (OpenAI) with your own key, the text to translate and the latest messages of the conversation are sent directly from your iPhone to that provider, which handles them under its own privacy policy. We receive nothing. The key is stored only in your iPhone’s keychain."),
+ ("Optional AI","If you turn on Claude (Anthropic) or Gemini (Google) with your own key, the text to translate and the latest messages of the conversation are sent directly from your iPhone to that provider, which handles them under its own privacy policy. We receive nothing. The key is stored only in your iPhone’s keychain."),
  ("Data on your iPhone","To translate with context, the keyboard remembers the latest messages for 3 hours, only on your iPhone. You can delete them in Settings → Forget conversation and language."),
  ("Templates, glossary and iCloud","Your templates and glossary are stored on your iPhone. If “Sync with iCloud” is on, Apple copies them to your iCloud account to bring them to your other devices. We have no access to them. You can turn it off in Settings."),
  ("“Allow Full Access”","iOS requires it so the keyboard can read the message you copy, connect to the AI if you turn it on, and share settings with the app. We don’t use it for anything else."),
@@ -41,7 +41,7 @@ P = {
  ("Responsable",f"{COMPANY}. Contact : {EMAIL}."),
  ("Ce que vous tapez","Le clavier n’enregistre ni n’envoie ce que vous tapez. Il lit le champ de texte uniquement quand vous touchez Traduire, et le message copié quand vous touchez Coller."),
  ("Traduction iOS","Par défaut, la traduction intégrée d’Apple est utilisée sur l’iPhone : le texte ne quitte pas l’appareil."),
- ("IA en option","Si vous activez Claude (Anthropic), Gemini (Google) ou ChatGPT (OpenAI) avec votre clé, le texte à traduire et les derniers messages de la conversation sont envoyés directement depuis votre iPhone à ce fournisseur, qui les traite selon sa propre politique. Nous ne recevons rien. La clé est stockée uniquement dans le trousseau de votre iPhone."),
+ ("IA en option","Si vous activez Claude (Anthropic) ou Gemini (Google) avec votre clé, le texte à traduire et les derniers messages de la conversation sont envoyés directement depuis votre iPhone à ce fournisseur, qui les traite selon sa propre politique. Nous ne recevons rien. La clé est stockée uniquement dans le trousseau de votre iPhone."),
  ("Données sur votre iPhone","Pour traduire avec le contexte, le clavier garde les derniers messages pendant 3 heures, uniquement sur votre iPhone. Vous pouvez les effacer dans Réglages → Oublier la conversation et la langue."),
  ("Modèles, glossaire et iCloud","Vos modèles et votre glossaire sont enregistrés sur votre iPhone. Si « Synchroniser avec iCloud » est activé, Apple les copie sur votre compte iCloud pour les retrouver sur vos autres appareils. Nous n’y avons pas accès. Vous pouvez le désactiver dans Réglages."),
  ("« Autoriser l’accès complet »","iOS l’exige pour que le clavier puisse lire le message copié, se connecter à l’IA si vous l’activez et partager les réglages avec l’app. Nous ne l’utilisons pour rien d’autre."),
@@ -55,7 +55,7 @@ P = {
  ("Verantwortlicher",f"{COMPANY}. Kontakt: {EMAIL}."),
  ("Was du tippst","Die Tastatur speichert oder sendet nicht, was du tippst. Sie liest das Textfeld nur, wenn du auf Übersetzen tippst, und die kopierte Nachricht nur, wenn du auf Einsetzen tippst."),
  ("iOS-Übersetzung","Standardmäßig wird die integrierte Übersetzung von Apple auf dem iPhone verwendet: Der Text verlässt das Gerät nicht."),
- ("Optionale KI","Wenn du Claude (Anthropic), Gemini (Google) oder ChatGPT (OpenAI) mit deinem Schlüssel aktivierst, werden der zu übersetzende Text und die letzten Nachrichten des Gesprächs direkt von deinem iPhone an diesen Anbieter gesendet, der sie gemäß seiner eigenen Datenschutzerklärung verarbeitet. Wir erhalten nichts. Der Schlüssel wird nur im Schlüsselbund deines iPhones gespeichert."),
+ ("Optionale KI","Wenn du Claude (Anthropic) oder Gemini (Google) mit deinem Schlüssel aktivierst, werden der zu übersetzende Text und die letzten Nachrichten des Gesprächs direkt von deinem iPhone an diesen Anbieter gesendet, der sie gemäß seiner eigenen Datenschutzerklärung verarbeitet. Wir erhalten nichts. Der Schlüssel wird nur im Schlüsselbund deines iPhones gespeichert."),
  ("Daten auf deinem iPhone","Für Übersetzungen mit Kontext merkt sich die Tastatur die letzten Nachrichten 3 Stunden lang, nur auf deinem iPhone. Du kannst sie unter Einstellungen → Gespräch und Sprache vergessen löschen."),
  ("Vorlagen, Glossar und iCloud","Deine Vorlagen und dein Glossar werden auf deinem iPhone gespeichert. Ist „Mit iCloud synchronisieren“ aktiv, kopiert Apple sie in deinen iCloud-Account, damit sie auf deinen anderen Geräten verfügbar sind. Wir haben keinen Zugriff darauf. Du kannst es in den Einstellungen ausschalten."),
  ("„Vollen Zugriff erlauben“","iOS verlangt dies, damit die Tastatur die kopierte Nachricht lesen, sich bei aktivierter KI verbinden und Einstellungen mit der App teilen kann. Für nichts anderes."),
@@ -69,7 +69,7 @@ P = {
  ("Titolare",f"{COMPANY}. Contatto: {EMAIL}."),
  ("Ciò che scrivi","La tastiera non salva né invia ciò che scrivi. Legge il campo di testo solo quando tocchi Traduci, e il messaggio copiato solo quando tocchi Incolla."),
  ("Traduzione di iOS","Per impostazione predefinita si usa la traduzione integrata di Apple sull’iPhone: il testo non lascia il dispositivo."),
- ("IA opzionale","Se attivi Claude (Anthropic), Gemini (Google) o ChatGPT (OpenAI) con la tua chiave, il testo da tradurre e gli ultimi messaggi della conversazione vengono inviati direttamente dal tuo iPhone a quel fornitore, che li tratta secondo la propria informativa. Noi non riceviamo nulla. La chiave è salvata solo nel portachiavi del tuo iPhone."),
+ ("IA opzionale","Se attivi Claude (Anthropic) o Gemini (Google) con la tua chiave, il testo da tradurre e gli ultimi messaggi della conversazione vengono inviati direttamente dal tuo iPhone a quel fornitore, che li tratta secondo la propria informativa. Noi non riceviamo nulla. La chiave è salvata solo nel portachiavi del tuo iPhone."),
  ("Dati sul tuo iPhone","Per tradurre con il contesto, la tastiera ricorda gli ultimi messaggi per 3 ore, solo sul tuo iPhone. Puoi cancellarli in Impostazioni → Dimentica conversazione e lingua."),
  ("Modelli, glossario e iCloud","I tuoi modelli e il tuo glossario sono salvati sull’iPhone. Se «Sincronizza con iCloud» è attivo, Apple li copia nel tuo account iCloud per portarli sugli altri dispositivi. Noi non vi abbiamo accesso. Puoi disattivarlo in Impostazioni."),
  ("«Consenti accesso completo»","iOS lo richiede perché la tastiera possa leggere il messaggio copiato, collegarsi all’IA se la attivi e condividere le impostazioni con l’app. Non lo usiamo per altro."),
@@ -83,7 +83,7 @@ P = {
  ("Responsável",f"{COMPANY}. Contacto: {EMAIL}."),
  ("O que escreve","O teclado não guarda nem envia o que escreve. Só lê a caixa de texto quando toca em Traduzir, e a mensagem copiada quando toca em Colar."),
  ("Tradução do iOS","Por predefinição é usada a tradução integrada da Apple no próprio iPhone: o texto não sai do dispositivo."),
- ("IA opcional","Se ativar Claude (Anthropic), Gemini (Google) ou ChatGPT (OpenAI) com a sua chave, o texto a traduzir e as últimas mensagens da conversa são enviados diretamente do seu iPhone para esse fornecedor, que os trata segundo a sua própria política. Nós não recebemos nada. A chave fica guardada apenas no porta-chaves do seu iPhone."),
+ ("IA opcional","Se ativar Claude (Anthropic) ou Gemini (Google) com a sua chave, o texto a traduzir e as últimas mensagens da conversa são enviados diretamente do seu iPhone para esse fornecedor, que os trata segundo a sua própria política. Nós não recebemos nada. A chave fica guardada apenas no porta-chaves do seu iPhone."),
  ("Dados no seu iPhone","Para traduzir com contexto, o teclado lembra as últimas mensagens durante 3 horas, apenas no seu iPhone. Pode apagá-las em Definições → Esquecer conversa e idioma."),
  ("Modelos, glossário e iCloud","Os seus modelos e o seu glossário ficam guardados no iPhone. Se «Sincronizar com o iCloud» estiver ativo, a Apple copia-os para a sua conta iCloud para os levar aos seus outros dispositivos. Nós não temos acesso. Pode desativá-lo nas Definições."),
  ("«Permitir acesso total»","O iOS exige-o para que o teclado possa ler a mensagem copiada, ligar-se à IA se a ativar e partilhar as definições com a app. Não o usamos para mais nada."),
@@ -97,7 +97,7 @@ P = {
  ("Verwerkingsverantwoordelijke",f"{COMPANY}. Contact: {EMAIL}."),
  ("Wat je typt","Het toetsenbord bewaart of verstuurt niet wat je typt. Het leest het tekstvak alleen als je op Vertaal tikt, en het gekopieerde bericht alleen als je op Plak tikt."),
  ("iOS-vertaling","Standaard wordt de ingebouwde vertaling van Apple op de iPhone gebruikt: de tekst verlaat het apparaat niet."),
- ("Optionele AI","Als je Claude (Anthropic), Gemini (Google) of ChatGPT (OpenAI) met je eigen sleutel aanzet, worden de te vertalen tekst en de laatste berichten van het gesprek rechtstreeks vanaf je iPhone naar die aanbieder gestuurd, die ze verwerkt volgens zijn eigen privacybeleid. Wij ontvangen niets. De sleutel wordt alleen in de sleutelhanger van je iPhone bewaard."),
+ ("Optionele AI","Als je Claude (Anthropic) of Gemini (Google) met je eigen sleutel aanzet, worden de te vertalen tekst en de laatste berichten van het gesprek rechtstreeks vanaf je iPhone naar die aanbieder gestuurd, die ze verwerkt volgens zijn eigen privacybeleid. Wij ontvangen niets. De sleutel wordt alleen in de sleutelhanger van je iPhone bewaard."),
  ("Gegevens op je iPhone","Om met context te vertalen onthoudt het toetsenbord de laatste berichten 3 uur lang, alleen op je iPhone. Je kunt ze wissen via Instellingen → Gesprek en taal vergeten."),
  ("Sjablonen, woordenlijst en iCloud","Je sjablonen en woordenlijst worden op je iPhone bewaard. Staat ‘Synchroniseren met iCloud’ aan, dan kopieert Apple ze naar je iCloud-account zodat ze op je andere apparaten komen. Wij hebben er geen toegang toe. Je kunt het uitzetten in Instellingen."),
  ("‘Sta volledige toegang toe’","iOS vereist dit zodat het toetsenbord het gekopieerde bericht kan lezen, verbinding kan maken met de AI als je die aanzet en instellingen kan delen met de app. We gebruiken het nergens anders voor."),
@@ -111,7 +111,7 @@ P = {
  ("负责人",f"{COMPANY}。联系方式：{EMAIL}。"),
  ("你输入的内容","键盘不会保存或发送你输入的内容。只有在你点按“翻译”时才读取输入框，点按“粘贴”时才读取复制的消息。"),
  ("iOS 翻译","默认使用 Apple 在 iPhone 上的内置翻译：文字不会离开设备。"),
- ("可选 AI","如果你使用自己的密钥开启 Claude（Anthropic）、Gemini（Google）或 ChatGPT（OpenAI），待翻译的文字及最近的对话消息会从你的 iPhone 直接发送给该提供商，并按其隐私政策处理。我们不会收到任何内容。密钥只保存在你 iPhone 的钥匙串中。"),
+ ("可选 AI","如果你使用自己的密钥开启 Claude（Anthropic）或 Gemini（Google），待翻译的文字及最近的对话消息会从你的 iPhone 直接发送给该提供商，并按其隐私政策处理。我们不会收到任何内容。密钥只保存在你 iPhone 的钥匙串中。"),
  ("你 iPhone 上的数据","为结合上下文翻译，键盘会在你的 iPhone 上记住最近的消息 3 小时。你可以在“设置 → 清除对话和语言”中删除。"),
  ("模板、术语表与 iCloud","你的模板和术语表保存在 iPhone 上。如开启“通过 iCloud 同步”，Apple 会将其复制到你的 iCloud 账户，以便在你的其他设备上使用。我们无法访问这些内容。你可以在设置中关闭此项。"),
  ("“允许完全访问”","iOS 要求开启此项，键盘才能读取你复制的消息、在你开启 AI 时联网，并与 App 共享设置。我们不会将其用于其他用途。"),
