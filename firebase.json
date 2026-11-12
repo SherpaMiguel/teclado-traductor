@@ -1,0 +1,7 @@
+{
+  "hosting": {
+    "public": ".",
+    "ignore": ["firebase.json", ".firebaserc", ".git", ".git/**", "**/.*", "**/.*/**", "*.py",
+      "content/**", "__pycache__/**"]
+  }
+}

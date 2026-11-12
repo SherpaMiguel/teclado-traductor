@@ -6,7 +6,7 @@ import os
 
 from PIL import Image, ImageDraw, ImageFont
 
-BASE = "https://sherpamiguel.github.io/teclado-traductor"
+BASE = "https://teclado-traductor-ia.web.app"
 APP_ID = "6822189721"
 # El inglés va en la raíz y es la versión por defecto (x-default).
 PATHS = {"en": "", "es": "es/", "fr": "fr/", "de": "de/", "it": "it/", "pt": "pt/",
